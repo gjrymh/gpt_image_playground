@@ -2,10 +2,10 @@
   "profiles": [
     {
       "id": "default-openai",
-      "name": "Sublyx 配置",
+      "name": "cun.ai 配置",
       "provider": "openai",
-      "baseUrl": "https://api.sublyx.org/v1",
-      "apiKey": "sk-0134a0256fa836d195b479f3f781f34a3a9474d5c039139c245f507f49ea1bdc",
+      "baseUrl": "https://www.cun.ai/v1",
+      "apiKey": "sk-nmMZoR6h7cpnvwBK7xiEiLdY1vmEmqkXaiSC1QKRFc8CqjOm",
       "model": "gpt-image-2.5-sunburst",
       "apiMode": "images",
       "isDefault": true
